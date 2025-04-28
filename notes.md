@@ -1,0 +1,27 @@
+# Current Destinations
+
+1. London: https://www.tripadvisor.in/Tourism-g186338-London_England-Vacations.html
+2. Sicily: https://www.tripadvisor.in/Tourism-g187886-Sicily-Vacations.html
+3. Paris: https://www.tripadvisor.in/Tourism-g187147-Paris_Ile_de_France-Vacations.html
+4. Rome: https://www.tripadvisor.in/Tourism-g187791-Rome_Lazio-Vacations.html
+5. Crete: https://www.tripadvisor.in/Tourism-g189413-Crete-Vacations.html
+6. Barcelona: https://www.tripadvisor.in/Tourism-g187497-Barcelona_Catalonia-Vacations.html
+7. Lisbon: https://www.tripadvisor.in/Tourism-g189158-Lisbon_Lisbon_District_Central_Portugal-Vacations.html
+8. Istanbul: https://www.tripadvisor.in/Tourism-g293974-Istanbul-Vacations.html
+9. Majorca: https://www.tripadvisor.in/Tourism-g187462-Majorca_Balearic_Islands-Vacations.html
+10. Edinburgh: https://www.tripadvisor.in/Tourism-g186525-Edinburgh_Scotland-Vacations.html
+11. Sardinia: https://www.tripadvisor.in/Tourism-g187879-Sardinia-Vacations.html
+12. Madrid: https://www.tripadvisor.in/Tourism-g187514-Madrid-Vacations.html
+13. Tenerife: https://www.tripadvisor.in/Tourism-g187479-Tenerife_Canary_Islands-Vacations.html
+14. Florence: https://www.tripadvisor.in/Tourism-g187895-Florence_Tuscany-Vacations.html
+15. Santorini: https://www.tripadvisor.in/Tourism-g189433-Santorini_Cyclades_South_Aegean-Vacations.html
+16. Budapest: https://www.tripadvisor.in/Tourism-g274887-Budapest_Central_Hungary-Vacations.html
+17. Porto: https://www.tripadvisor.in/Tourism-g189180-Porto_Porto_District_Northern_Portugal-Vacations.html
+18. Amsterdam: https://www.tripadvisor.in/Tourism-g188590-Amsterdam_North_Holland_Province-Vacations.html
+19. Dublin: https://www.tripadvisor.in/Tourism-g186605-Dublin_County_Dublin-Vacations.html
+20. Prague: https://www.tripadvisor.in/Tourism-g274707-Prague_Bohemia-Vacations.html
+21. Rhodes: https://www.tripadvisor.in/Tourism-g189449-Rhodes_Dodecanese_South_Aegean-Vacations.html
+22. Malta: https://www.tripadvisor.in/Tourism-g190320-Island_of_Malta-Vacations.html
+23. Cappadocia: https://www.tripadvisor.in/Tourism-g297983-Goreme_Cappadocia-Vacations.html
+24. Krakow: https://www.tripadvisor.in/Tourism-g274772-Krakow_Lesser_Poland_Province_Southern_Poland-Vacations.html
+25. Reykjavik: https://www.tripadvisor.in/Tourism-g189970-Reykjavik_Capital_Region-Vacations.html

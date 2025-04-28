@@ -1,0 +1,756 @@
+[
+    {
+        "id": "186338",
+        "name": "London, United Kingdom",
+        "description": "London, the capital of England and the United Kingdom, is a dynamic 21st-century city with a history stretching back to Roman times. Situated on the River Thames, it's a global hub for finance, culture, fashion, and politics. Iconic landmarks like the Houses of Parliament, Big Ben, Buckingham Palace, the Tower of London, and Westminster Abbey coexist with modern marvels like the Shard and the London Eye. The city boasts world-class museums (many offering free entry), renowned West End theatres, diverse culinary scenes, sprawling Royal Parks, and vibrant neighborhoods like Soho, Notting Hill, and Shoreditch, each with its unique character.",
+        "climate": "London experiences a temperate maritime climate (K\u00f6ppen: Cfb) with moderate seasonality. Summers (June-August) are generally warm, with average daily highs around 20-24\u00b0C (68-75\u00b0F), though occasional heatwaves can push temperatures higher. Winters (December-February) are cool, damp, and often overcast, with average highs around 8\u00b0C (46\u00b0F); snowfall is relatively rare and usually light. Spring (March-May) and Autumn (September-November) offer mild temperatures but can be unpredictable. Rainfall is distributed fairly evenly throughout the year, so showers are possible anytime. Layers and waterproof outerwear are recommended year-round.",
+        "avg_monthly_temp": [
+            {
+                "month": 1,
+                "temp": 5
+            },
+            {
+                "month": 2,
+                "temp": 5
+            },
+            {
+                "month": 3,
+                "temp": 7
+            },
+            {
+                "month": 4,
+                "temp": 9
+            },
+            {
+                "month": 5,
+                "temp": 13
+            },
+            {
+                "month": 6,
+                "temp": 16
+            },
+            {
+                "month": 7,
+                "temp": 18
+            },
+            {
+                "month": 8,
+                "temp": 18
+            },
+            {
+                "month": 9,
+                "temp": 15
+            },
+            {
+                "month": 10,
+                "temp": 11
+            },
+            {
+                "month": 11,
+                "temp": 8
+            },
+            {
+                "month": 12,
+                "temp": 6
+            }
+        ],
+        "best_time_to_visit": "Late spring (May-June) and early autumn (September-October) are often considered the best times to visit London. These months typically offer pleasant weather, moderate temperatures ideal for sightseeing, and fewer crowds compared to the peak summer season. Parks are lush in spring and colourful in autumn. Summer (July-August) boasts the warmest weather and long daylight hours, perfect for festivals and outdoor activities, but it's also the busiest and most expensive time. Winter offers festive charm, Christmas markets, and cozy pubs, but expect colder temperatures, shorter days, and damp conditions.",
+        "avg_daily_cost_range": [
+            150,
+            350
+        ],
+        "tags": [
+            "city break",
+            "history",
+            "culture",
+            "museums",
+            "theatre",
+            "royal family",
+            "shopping",
+            "architecture",
+            "Europe",
+            "United Kingdom",
+            "capital city",
+            "finance",
+            "fashion"
+        ],
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/65/9a/9b/big-ben.jpg?w=500&h=400&s=1"
+    },
+    {
+        "id": "187886",
+        "name": "Sicily, Italy",
+        "description": "Sicily, the largest island in the Mediterranean Sea, is an autonomous region of Italy boasting a rich and layered history reflected in its diverse architecture, from ancient Greek temples in Agrigento and Selinunte to Roman villas with intricate mosaics, Norman cathedrals in Palermo and Monreale, and stunning Baroque towns in the Val di Noto. Its landscapes are equally varied, featuring beautiful coastlines with sandy beaches and rocky coves, rugged mountains perfect for hiking, and the imposing presence of Mount Etna, one of the world's most active volcanoes. Sicilian culture is vibrant, known for its unique traditions, lively festivals, and world-renowned cuisine emphasizing fresh seafood, pasta, citrus fruits, and delicious pastries like cannoli.",
+        "climate": "Sicily enjoys a classic Mediterranean climate characterized by long, hot, and dry summers, and mild, relatively wet winters. Coastal areas typically experience warmer temperatures year-round compared to the inland and mountainous regions. Summers (June-August) see temperatures often exceeding 30\u00b0C (86\u00b0F), especially during July and August, with abundant sunshine. Spring (April-May) and Autumn (September-October) offer pleasant warmth and sunshine with fewer crowds. Winters (November-March) are mild, particularly along the coast, with average temperatures around 10-12\u00b0C (50-54\u00b0F), though higher elevations can see colder weather and even snow.",
+        "avg_monthly_temp": [
+            {
+                "month": 1,
+                "temp": 10
+            },
+            {
+                "month": 2,
+                "temp": 10
+            },
+            {
+                "month": 3,
+                "temp": 12
+            },
+            {
+                "month": 4,
+                "temp": 14
+            },
+            {
+                "month": 5,
+                "temp": 18
+            },
+            {
+                "month": 6,
+                "temp": 22
+            },
+            {
+                "month": 7,
+                "temp": 25
+            },
+            {
+                "month": 8,
+                "temp": 26
+            },
+            {
+                "month": 9,
+                "temp": 23
+            },
+            {
+                "month": 10,
+                "temp": 19
+            },
+            {
+                "month": 11,
+                "temp": 15
+            },
+            {
+                "month": 12,
+                "temp": 12
+            }
+        ],
+        "best_time_to_visit": "The best times to visit Sicily are typically Spring (April to June) and Autumn (September to October). During these shoulder seasons, the weather is pleasantly warm and sunny, ideal for sightseeing, hiking, and enjoying the beaches without the intense heat and large crowds of peak summer. Spring brings blooming wildflowers, while autumn offers grape harvests and warm seas. Summer (July and August) is perfect for dedicated beach holidays but can be very hot (often above 30\u00b0C) and crowded, making sightseeing less comfortable. Winter (November to March) is cooler and wetter, especially inland, but offers lower prices, fewer tourists, and a good opportunity to explore cities and cultural sites, though some coastal resorts may be closed.",
+        "avg_daily_cost_range": [
+            75,
+            175
+        ],
+        "tags": [
+            "island",
+            "Mediterranean",
+            "Italy",
+            "history",
+            "archaeology",
+            "Greek temples",
+            "Roman villas",
+            "Baroque architecture",
+            "beaches",
+            "Mount Etna",
+            "volcano",
+            "cuisine",
+            "culture",
+            "UNESCO World Heritage"
+        ],
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/f9/07/sicily.jpg?w=500&h=400&s=1"
+    },
+    {
+        "id": "187147",
+        "name": "Paris, France",
+        "description": "Paris, the capital of France, is a global center for art, fashion, gastronomy, and culture. Its 19th-century cityscape is crisscrossed by wide boulevards and the River Seine. Beyond landmarks like the Eiffel Tower and the 12th-century, Gothic Notre-Dame cathedral, the city is known for its cafe culture and designer boutiques along the Rue du Faubourg Saint-Honor\u00e9. The Louvre museum houses Da Vinci\u2019s \"Mona Lisa,\" while the Mus\u00e9e d'Orsay displays Impressionist works. Known as the \"City of Light\" and \"City of Love,\" Paris offers charming neighborhoods like Montmartre and the Latin Quarter, beautiful parks, and world-class cuisine.",
+        "climate": "Paris experiences a temperate maritime climate with mild winters and warm summers. Rainfall is moderately distributed throughout the year, often arriving as light showers or drizzle. Winters (December-February) are cool and damp, with average temperatures around 5\u00b0C, occasional frost, and rare snowfall. Spring (March-May) sees temperatures gradually rising, with blossoming trees but variable weather. Summers (June-August) are generally warm and sunny, with average highs around 25\u00b0C, though heatwaves can occur. Autumn (September-November) brings pleasant temperatures initially, followed by cooler, wetter weather as winter approaches.",
+        "avg_monthly_temp": [
+            {
+                "month": 1,
+                "temp": 5
+            },
+            {
+                "month": 2,
+                "temp": 6
+            },
+            {
+                "month": 3,
+                "temp": 9
+            },
+            {
+                "month": 4,
+                "temp": 12
+            },
+            {
+                "month": 5,
+                "temp": 16
+            },
+            {
+                "month": 6,
+                "temp": 19
+            },
+            {
+                "month": 7,
+                "temp": 21
+            },
+            {
+                "month": 8,
+                "temp": 21
+            },
+            {
+                "month": 9,
+                "temp": 17
+            },
+            {
+                "month": 10,
+                "temp": 13
+            },
+            {
+                "month": 11,
+                "temp": 8
+            },
+            {
+                "month": 12,
+                "temp": 6
+            }
+        ],
+        "best_time_to_visit": "The best time to visit Paris is during the spring (April to June) or fall (September to October). During these shoulder seasons, the weather is generally pleasant, with mild temperatures perfect for sightseeing and strolling through the city. Tourist crowds are smaller than in the peak summer months, leading to shorter queues at major attractions. Summer (July and August) offers the warmest weather, ideal for enjoying parks and outdoor cafes, but it's also the busiest and most expensive time. Winter (November to March) is the low season, offering fewer crowds and lower prices, plus a festive atmosphere around Christmas, though the weather is colder and days are shorter.",
+        "avg_daily_cost_range": [
+            150,
+            300
+        ],
+        "tags": [
+            "City Break",
+            "Culture",
+            "Romance",
+            "History",
+            "Art",
+            "Museums",
+            "Foodie",
+            "Europe",
+            "Landmarks",
+            "Fashion"
+        ],
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/15/6d/d6/paris.jpg?w=500&h=400&s=1"
+    },
+    {
+        "id": "187791",
+        "name": "Rome, Italy",
+        "description": "Rome, Italy's capital, is a sprawling, cosmopolitan city with nearly 3,000 years of globally influential art, architecture and culture on display. Ancient ruins such as the Roman Forum and the Colosseum evoke the power of the former Roman Empire. Vatican City, headquarters of the Roman Catholic Church, boasts St. Peter's Basilica and the Vatican Museums, which house masterpieces such as Michelangelo\u2019s Sistine Chapel frescoes. Known as the 'Eternal City', Rome offers a unique blend of historical grandeur and vibrant street life, delicious cuisine, and world-class shopping.",
+        "climate": "Rome experiences a Mediterranean climate (K\u00f6ppen climate classification: Csa), characterized by hot, dry summers and mild, humid winters. Summers (June to August) are typically very warm to hot, with average highs often exceeding 30\u00b0C (86\u00b0F), especially in July and August. Winters (December to February) are mild, with average temperatures around 8\u00b0C (46\u00b0F), though occasional cold spells can occur. Rainfall is moderate throughout the year, with autumn (October and November) being the wettest season and summer the driest.",
+        "avg_monthly_temp": [
+            {
+                "month": 1,
+                "temp": 8
+            },
+            {
+                "month": 2,
+                "temp": 9
+            },
+            {
+                "month": 3,
+                "temp": 11
+            },
+            {
+                "month": 4,
+                "temp": 14
+            },
+            {
+                "month": 5,
+                "temp": 18
+            },
+            {
+                "month": 6,
+                "temp": 22
+            },
+            {
+                "month": 7,
+                "temp": 25
+            },
+            {
+                "month": 8,
+                "temp": 25
+            },
+            {
+                "month": 9,
+                "temp": 21
+            },
+            {
+                "month": 10,
+                "temp": 17
+            },
+            {
+                "month": 11,
+                "temp": 12
+            },
+            {
+                "month": 12,
+                "temp": 9
+            }
+        ],
+        "best_time_to_visit": "The best time to visit Rome is during the spring (April to June) and fall (September to October). During these shoulder seasons, the weather is pleasantly warm and sunny, ideal for sightseeing and walking around the city without the intense heat of the summer. Crowds are generally smaller than during the peak summer months (July and August), although popular sites remain busy. Winter offers lower prices and fewer tourists but cooler temperatures and more rain.",
+        "avg_daily_cost_range": [
+            150,
+            350
+        ],
+        "tags": [
+            "History",
+            "Culture",
+            "Ancient Ruins",
+            "Art",
+            "Architecture",
+            "Food",
+            "Europe",
+            "City Break",
+            "Catholicism",
+            "Museums"
+        ],
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/3e/f4/f0/photo2jpg.jpg?w=500&h=400&s=1"
+    },
+    {
+        "id": "189413",
+        "name": "Crete, Greece",
+        "description": "Crete, the largest of the Greek islands, is a captivating destination known for its diverse landscapes, rich history, and vibrant culture. From the stunning beaches of Elafonissi and Balos to the rugged White Mountains and the famous Samaria Gorge, the island offers breathtaking natural beauty. Crete was the cradle of the Minoan civilization, and visitors can explore ancient palaces like Knossos and Phaistos. Its charming towns, such as Chania and Rethymno, boast Venetian harbors and Ottoman influences. Cretan cuisine is renowned for its healthy and delicious Mediterranean flavors.",
+        "climate": "Crete enjoys a Mediterranean climate with hot, dry summers and mild, relatively rainy winters. Summers (June to August) are characterized by abundant sunshine and high temperatures, often exceeding 30\u00b0C (86\u00b0F), especially on the south coast. Winters (December to February) are mild, with temperatures rarely dropping below 10\u00b0C (50\u00b0F) along the coast, though snowfall is common in the mountains. Spring and autumn offer pleasant warmth and sunshine, making them ideal for outdoor activities.",
+        "avg_monthly_temp": [
+            {
+                "month": 1,
+                "temp": 12
+            },
+            {
+                "month": 2,
+                "temp": 12
+            },
+            {
+                "month": 3,
+                "temp": 14
+            },
+            {
+                "month": 4,
+                "temp": 17
+            },
+            {
+                "month": 5,
+                "temp": 21
+            },
+            {
+                "month": 6,
+                "temp": 25
+            },
+            {
+                "month": 7,
+                "temp": 27
+            },
+            {
+                "month": 8,
+                "temp": 27
+            },
+            {
+                "month": 9,
+                "temp": 24
+            },
+            {
+                "month": 10,
+                "temp": 20
+            },
+            {
+                "month": 11,
+                "temp": 17
+            },
+            {
+                "month": 12,
+                "temp": 14
+            }
+        ],
+        "best_time_to_visit": "The best time to visit Crete is during the shoulder seasons: late spring (April to early June) and early autumn (September to October). During these periods, the weather is pleasantly warm and sunny, ideal for swimming, hiking, and sightseeing, but without the intense heat and large crowds of peak summer. The sea remains warm enough for swimming well into October. Summer (late June to August) is perfect for beach lovers but can be very hot and crowded. Winter offers milder temperatures suitable for exploring historical sites, though some tourist facilities may be closed and rain is more frequent.",
+        "avg_daily_cost_range": [
+            70,
+            150
+        ],
+        "tags": [
+            "island",
+            "Greece",
+            "Mediterranean",
+            "beaches",
+            "mountains",
+            "history",
+            "archaeology",
+            "Minoan civilization",
+            "cuisine",
+            "hiking",
+            "gorges",
+            "Chania",
+            "Heraklion"
+        ],
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/9d/52/cf/heraklion-son-port-et.jpg?w=500&h=400&s=1"
+    },
+    {
+        "id": "187497",
+        "name": "Barcelona, Spain",
+        "description": "Barcelona, the cosmopolitan capital of Spain\u2019s Catalonia region, is renowned for its unique art and architecture. The fantastical Sagrada Fam\u00edlia church and other modernist landmarks designed by Antoni Gaud\u00ed dot the city. Museu Picasso and Fundaci\u00f3 Joan Mir\u00f3 feature modern art by their namesakes. City history museum MUHBA includes several Roman archaeological sites. It's also famous for its lively nightlife, sandy beaches, and delicious Catalan cuisine.",
+        "climate": "Barcelona enjoys a Mediterranean climate with mild, humid winters and warm to hot, dry summers. Winters (December-February) are cool but rarely freezing, with average temperatures around 9-10\u00b0C. Summers (June-August) are hot and sunny, often humid, with temperatures averaging 24-25\u00b0C, sometimes exceeding 30\u00b0C. Spring (March-May) and Autumn (September-November) offer pleasant temperatures, making them ideal times to visit, although autumn can see some rainfall.",
+        "avg_monthly_temp": [
+            {
+                "month": 1,
+                "temp": 9
+            },
+            {
+                "month": 2,
+                "temp": 10
+            },
+            {
+                "month": 3,
+                "temp": 12
+            },
+            {
+                "month": 4,
+                "temp": 14
+            },
+            {
+                "month": 5,
+                "temp": 18
+            },
+            {
+                "month": 6,
+                "temp": 22
+            },
+            {
+                "month": 7,
+                "temp": 25
+            },
+            {
+                "month": 8,
+                "temp": 25
+            },
+            {
+                "month": 9,
+                "temp": 22
+            },
+            {
+                "month": 10,
+                "temp": 18
+            },
+            {
+                "month": 11,
+                "temp": 13
+            },
+            {
+                "month": 12,
+                "temp": 10
+            }
+        ],
+        "best_time_to_visit": "The best time to visit Barcelona is during the spring (April to June) and fall (September to October). During these months, the weather is pleasantly warm and sunny, perfect for sightseeing and enjoying the beaches without the intense heat and large crowds of peak summer. Winter is milder than much of Europe, but cooler and occasionally rainy. July and August are the hottest and most crowded months.",
+        "avg_daily_cost_range": [
+            100,
+            250
+        ],
+        "tags": [
+            "Architecture",
+            "Culture",
+            "Beach",
+            "Food",
+            "Nightlife",
+            "City Break",
+            "Spain",
+            "Europe",
+            "Mediterranean",
+            "Gaudi"
+        ],
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/ae/5d/da/caption.jpg?w=500&h=400&s=1"
+    },
+    {
+        "id": "189158",
+        "name": "Lisbon, Portugal",
+        "description": "Lisbon, the hilly, coastal capital city of Portugal, is renowned for its historic charm, vibrant culture, and stunning views. From the S\u00e3o Jorge Castle overlooking the old Alfama district with its narrow, winding streets, to the Bel\u00e9m Tower and Jer\u00f3nimos Monastery celebrating Portugal's Age of Discoveries, the city is steeped in history. Experience the melancholic sounds of Fado music, ride the iconic yellow Tram 28, and indulge in delicious past\u00e9is de nata. Lisbon offers a captivating blend of traditional heritage and striking modernism.",
+        "climate": "Lisbon enjoys a Mediterranean climate (K\u00f6ppen: Csa) characterized by mild, rainy winters and warm to hot, dry summers. Winters (December to February) are generally mild with average temperatures around 11-12\u00b0C, though rain is frequent. Summers (June to August) are warm, sunny, and dry, with average temperatures around 23-24\u00b0C, often feeling hotter due to the sun. Spring and autumn offer pleasant temperatures and moderate rainfall.",
+        "avg_monthly_temp": [
+            {
+                "month": 1,
+                "temp": 11
+            },
+            {
+                "month": 2,
+                "temp": 12
+            },
+            {
+                "month": 3,
+                "temp": 14
+            },
+            {
+                "month": 4,
+                "temp": 16
+            },
+            {
+                "month": 5,
+                "temp": 18
+            },
+            {
+                "month": 6,
+                "temp": 21
+            },
+            {
+                "month": 7,
+                "temp": 23
+            },
+            {
+                "month": 8,
+                "temp": 24
+            },
+            {
+                "month": 9,
+                "temp": 22
+            },
+            {
+                "month": 10,
+                "temp": 19
+            },
+            {
+                "month": 11,
+                "temp": 15
+            },
+            {
+                "month": 12,
+                "temp": 12
+            }
+        ],
+        "best_time_to_visit": "The best time to visit Lisbon is during the shoulder seasons: spring (March to May) and autumn (September to October). During these periods, the weather is pleasantly warm and sunny, ideal for sightseeing and exploring the city on foot, without the intense heat and larger crowds of the peak summer months (June to August). Winter offers milder temperatures than much of Europe but can be rainy.",
+        "avg_daily_cost_range": [
+            80,
+            160
+        ],
+        "tags": [
+            "History",
+            "Culture",
+            "City Break",
+            "Coastal",
+            "Food",
+            "Europe",
+            "Fado",
+            "Tiles",
+            "Portugal"
+        ],
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/f9/46/lisbon.jpg?w=500&h=400&s=1"
+    },
+    {
+        "id": "293974",
+        "name": "Istanbul, T\u00fcrkiye",
+        "description": "Istanbul, the largest city in T\u00fcrkiye, uniquely straddles Europe and Asia across the Bosphorus Strait. A city of immense historical significance, it served as the capital of the Byzantine and Ottoman Empires. Visitors can explore iconic landmarks like the Hagia Sophia, a former church and mosque showcasing stunning Byzantine architecture; the Sultan Ahmed Mosque (Blue Mosque) with its intricate tilework; the opulent Topkapi Palace, once home to sultans; and the bustling Grand Bazaar and Spice Market. The city offers a vibrant blend of ancient traditions and modern energy, with delicious cuisine, lively neighborhoods, and scenic waterfront views.",
+        "climate": "Istanbul has a borderline Mediterranean and humid subtropical climate (K\u00f6ppen: Csa/Cfa), influenced by its coastal location and the Bosphorus. Summers (June to August) are hot and humid, with average highs around 28-30\u00b0C (82-86\u00b0F) and significant humidity. Winters (December to February) are cold, damp, and often overcast, with average highs around 8-10\u00b0C (46-50\u00b0F) and occasional rainfall, sometimes turning to snow. Spring (April-May) and Autumn (September-October) offer the most pleasant weather, with mild temperatures and less rainfall, though conditions can be variable.",
+        "avg_monthly_temp": [
+            {
+                "month": 1,
+                "temp": 6
+            },
+            {
+                "month": 2,
+                "temp": 6
+            },
+            {
+                "month": 3,
+                "temp": 8
+            },
+            {
+                "month": 4,
+                "temp": 12
+            },
+            {
+                "month": 5,
+                "temp": 17
+            },
+            {
+                "month": 6,
+                "temp": 22
+            },
+            {
+                "month": 7,
+                "temp": 24
+            },
+            {
+                "month": 8,
+                "temp": 24
+            },
+            {
+                "month": 9,
+                "temp": 21
+            },
+            {
+                "month": 10,
+                "temp": 16
+            },
+            {
+                "month": 11,
+                "temp": 12
+            },
+            {
+                "month": 12,
+                "temp": 8
+            }
+        ],
+        "best_time_to_visit": "The best times to visit Istanbul are during spring (April to May) and autumn (September to October). During these shoulder seasons, the weather is pleasantly mild, perfect for exploring the city's many outdoor sights and walking between neighborhoods. There are typically fewer crowds compared to the peak summer months, and accommodation prices may be slightly lower. Summer (June to August) is popular but can be uncomfortably hot and humid, while winter (December to February) is cold and rainy, with occasional snow, though it offers a quieter, more atmospheric experience.",
+        "avg_daily_cost_range": [
+            70,
+            150
+        ],
+        "tags": [
+            "History",
+            "Culture",
+            "City Break",
+            "East meets West",
+            "Bosphorus",
+            "Mosques",
+            "Palaces",
+            "Bazaars",
+            "Food",
+            "T\u00fcrkiye",
+            "T\u00fcrkiye",
+            ""
+        ],
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/2f/9f/6f/istanbul.jpg?w=500&h=400&s=1"
+    },
+    {
+        "id": "187462",
+        "name": "Majorca, Spain",
+        "description": "Majorca, the largest of Spain's Balearic Islands, is renowned for its stunning coastline, beautiful beaches, sheltered coves, limestone mountains, and Roman and Moorish remains. The capital, Palma, boasts a massive Gothic cathedral, lively nightlife, and chic boutiques. Beyond the popular resorts, visitors can explore charming inland villages, vineyards, and the rugged Serra de Tramuntana mountain range, a UNESCO World Heritage site, popular for hiking and cycling.",
+        "climate": "Majorca enjoys a Mediterranean climate characterized by hot, dry summers and mild, relatively wet winters. Summer months (June to August) are typically sunny and hot, with average high temperatures often reaching the low 30s\u00b0C (high 80s\u00b0F), moderated slightly by sea breezes along the coast. Winters (December to February) are generally mild, with average temperatures hovering around 10-12\u00b0C (low 50s\u00b0F), although it can be cooler in the Tramuntana mountains, occasionally seeing frost or light snow at higher elevations. Spring and autumn offer pleasant, warm weather with moderate rainfall, making them ideal for outdoor activities.",
+        "avg_monthly_temp": [
+            {
+                "month": 1,
+                "temp": 11
+            },
+            {
+                "month": 2,
+                "temp": 11
+            },
+            {
+                "month": 3,
+                "temp": 13
+            },
+            {
+                "month": 4,
+                "temp": 15
+            },
+            {
+                "month": 5,
+                "temp": 19
+            },
+            {
+                "month": 6,
+                "temp": 23
+            },
+            {
+                "month": 7,
+                "temp": 26
+            },
+            {
+                "month": 8,
+                "temp": 27
+            },
+            {
+                "month": 9,
+                "temp": 24
+            },
+            {
+                "month": 10,
+                "temp": 20
+            },
+            {
+                "month": 11,
+                "temp": 15
+            },
+            {
+                "month": 12,
+                "temp": 12
+            }
+        ],
+        "best_time_to_visit": "The best time to visit Majorca depends on preferences. For prime beach weather and swimming, the peak summer months (July and August) offer the highest temperatures and warmest sea, but also coincide with the largest crowds and highest prices. Spring (April-May) and autumn (September-October) are often considered ideal, offering pleasantly warm temperatures perfect for sightseeing, hiking, and cycling, with fewer tourists than summer. The shoulder seasons provide a good balance of good weather and manageable crowds. Winter (November-March) is the low season, offering tranquility and lower prices but cooler temperatures and a higher chance of rain, with some tourist facilities potentially closed.",
+        "avg_daily_cost_range": [
+            100,
+            300
+        ],
+        "tags": [
+            "beach",
+            "island",
+            "Mediterranean",
+            "Spain",
+            "mountains",
+            "hiking",
+            "cycling",
+            "nightlife",
+            "family friendly",
+            "culture",
+            "history",
+            "luxury",
+            "water sports"
+        ],
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/66/c5/e8/caption.jpg?w=500&h=400&s=1"
+    },
+    {
+        "id": "188590",
+        "name": "Amsterdam, The Netherlands",
+        "description": "Amsterdam, the capital of the Netherlands, is renowned for its intricate canal system, narrow houses with gabled facades, and rich artistic heritage. Often called the 'Venice of the North', its 17th-century Golden Age canals are lined with charming houseboats and historic buildings. Key attractions include the Anne Frank House, the Van Gogh Museum, the Rijksmuseum housing works by Rembrandt and Vermeer, and its vibrant nightlife. Cycling is a quintessential Amsterdam experience, with dedicated paths crisscrossing the city.",
+        "climate": "Amsterdam experiences a temperate maritime climate (K\u00f6ppen: Cfb), characterized by mild summers and cool, damp winters. Rainfall is common throughout the year, though typically light. Summers (June-August) are generally pleasant but rarely hot, while winters (December-February) are chilly with occasional frost and infrequent snow. Spring and autumn offer moderate temperatures but can be quite variable.",
+        "avg_monthly_temp": [
+            {
+                "month": 1,
+                "temp": 3
+            },
+            {
+                "month": 2,
+                "temp": 4
+            },
+            {
+                "month": 3,
+                "temp": 6
+            },
+            {
+                "month": 4,
+                "temp": 9
+            },
+            {
+                "month": 5,
+                "temp": 13
+            },
+            {
+                "month": 6,
+                "temp": 16
+            },
+            {
+                "month": 7,
+                "temp": 18
+            },
+            {
+                "month": 8,
+                "temp": 18
+            },
+            {
+                "month": 9,
+                "temp": 15
+            },
+            {
+                "month": 10,
+                "temp": 11
+            },
+            {
+                "month": 11,
+                "temp": 7
+            },
+            {
+                "month": 12,
+                "temp": 4
+            }
+        ],
+        "best_time_to_visit": "The best time to visit Amsterdam is generally from April to May (spring) or September to October (autumn). Spring offers blooming tulips (especially mid-April) and pleasant temperatures with fewer crowds than summer. Autumn provides mild weather and beautiful fall foliage along the canals. Summer (June-August) has the warmest weather and numerous festivals but is also the peak tourist season with higher prices and larger crowds. Winter can be charming but is cold and damp.",
+        "avg_daily_cost_range": [
+            120,
+            250
+        ],
+        "tags": [
+            "canals",
+            "history",
+            "art",
+            "museums",
+            "cycling",
+            "Europe",
+            "city break",
+            "culture",
+            "Netherlands",
+            "liberal"
+        ],
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/74/c9/cf/caption.jpg?w=500&h=400&s=1"
+    }
+]
