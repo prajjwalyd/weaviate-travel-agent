@@ -125,7 +125,7 @@ try:
         )
         print("Destinations collection created.")
         # Load data
-        with open("destinations.json", "r", encoding="utf-8") as f:
+        with open("dataset/destinations.json", "r", encoding="utf-8") as f:
             destinations_data = json.load(f)
             destinations_collection = client.collections.get("Destinations")
             with destinations_collection.batch.dynamic() as batch:
@@ -328,7 +328,7 @@ try:
         )
         print("Attractions collection created.")
         # Load data
-        with open("attractions.json", "r", encoding="utf-8") as f:
+        with open("dataset/attractions.json", "r", encoding="utf-8") as f:
             attractions_data = json.load(f)
             attractions_collection = client.collections.get("Attractions")
             with attractions_collection.batch.dynamic() as batch:
@@ -592,7 +592,7 @@ try:
         )
         print("Hotels collection created.")
         # Load data
-        with open("hotels.json", "r", encoding="utf-8") as f:
+        with open("dataset/hotels.json", "r", encoding="utf-8") as f:
             hotels_data = json.load(f)
             hotels_collection = client.collections.get("Hotels")
             with hotels_collection.batch.dynamic() as batch:
